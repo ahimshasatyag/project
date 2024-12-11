@@ -1,0 +1,16 @@
+{
+  "produk": [
+    {
+      "id": "1",
+      "name": "CPU",
+      "email": "aahimshasatyag@gmail.com",
+      "phone": "085799941112"
+    },
+    {
+      "id": "2",
+      "name": "Keyboard",
+      "email": "satya@gmail.com",
+      "phone": "081226641337"
+    }
+  ]
+}
